@@ -26,7 +26,6 @@ ChatDB/
 │   ├── educationdb/
 │   └── healthdb/
 
-├── venv/                      # Python virtual environment (excluded from Git)
 ```
 
 ---
@@ -96,12 +95,3 @@ streamlit run chatDB_pt1.py
   - `"List unique reasons patients visited a doctor from ENT specialty."` # For NoSQL
 - The LLM interprets your question and auto-generates the corresponding query.
 
----
-
-## ✅ Notes
-
-- Make sure your API key has quota access.
-- The app handles basic schema inference from uploaded files.
-- `venv/` and any `.env` file should be excluded from Git using `.gitignore`.
-
----
