@@ -8,9 +8,12 @@ import os
 import google.generativeai as genai
 from sqlalchemy import create_engine
 from sqlalchemy.exc import ProgrammingError
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Gemini Setup
-genai.configure(api_key="AIzaSyCEtwXJEyYgBBz5zryJNsoIrbhrBFvkH30")  
+genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 model = genai.GenerativeModel(model_name="models/gemini-1.5-flash")
 
 # MySQL connection
@@ -25,6 +28,17 @@ def get_connection(db_name=None):
 
 # MongoDB client
 def get_mongo_client():
+/*************  ✨ Windsurf Command ⭐  *************/
+    """
+    Returns a MongoClient for interacting with the local MongoDB instance.
+
+    The MongoClient is connected to the local MongoDB instance running on
+    port 27017.
+
+    Returns:
+        MongoClient: the MongoClient instance
+    """
+/*******  a2e87ecc-8eb6-4998-a633-88f10e1159f0  *******/
     return MongoClient("mongodb://127.0.0.1:27017")
 
 # Streamlit UI
