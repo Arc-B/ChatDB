@@ -1,0 +1,51 @@
+product_id,product_name,category,price,stock
+1,Men's T-Shirt,Clothing,157.46,56
+2,Tennis Racket,Sports,129.56,11
+3,Mystery Novel,Books,346.34,59
+4,Men's T-Shirt,Clothing,340.84,73
+5,Vacuum Cleaner,Home,176.13,44
+6,Science Textbook,Books,180.46,53
+7,Women's Jeans,Clothing,299.99,2
+8,Basketball,Sports,410.79,34
+9,Microwave Oven,Home,180.78,10
+10,Microwave Oven,Home,202.08,97
+11,Cargo Shorts,Clothing,98.48,93
+12,Men's T-Shirt,Clothing,175.4,9
+13,Blender,Home,69.6,51
+14,Cargo Shorts,Clothing,63.83,85
+15,Dumbbell Set,Sports,47.38,75
+16,Coffee Maker,Home,74.04,56
+17,Vacuum Cleaner,Home,316.67,58
+18,Cargo Shorts,Clothing,376.9,79
+19,Microwave Oven,Home,252.53,21
+20,Bluetooth Speaker,Electronics,76.72,74
+21,Dumbbell Set,Sports,341.48,5
+22,Vacuum Cleaner,Home,339.68,100
+23,Running Shoes,Sports,356.28,94
+24,Wireless Mouse,Electronics,134.75,54
+25,Vacuum Cleaner,Home,242.98,16
+26,Microwave Oven,Home,254.52,10
+27,Bluetooth Speaker,Electronics,447.6,7
+28,Women's Jeans,Clothing,31.23,75
+29,Science Textbook,Books,445.99,63
+30,Gaming Laptop,Electronics,287.47,77
+31,Smartphone,Electronics,309.25,17
+32,Dumbbell Set,Sports,324.38,70
+33,Hooded Sweatshirt,Clothing,414.75,80
+34,Women's Jeans,Clothing,475.37,74
+35,Yoga Mat,Sports,341.77,9
+36,Basketball,Sports,96.62,21
+37,Women's Jeans,Clothing,441.52,85
+38,Vacuum Cleaner,Home,175.8,6
+39,Children's Storybook,Books,391.29,18
+40,Cookbook,Books,427.07,56
+41,Basketball,Sports,375.24,15
+42,Yoga Mat,Sports,303.72,68
+43,Hooded Sweatshirt,Clothing,154.7,68
+44,Basketball,Sports,412.79,7
+45,Wireless Mouse,Electronics,367.22,77
+46,Running Shoes,Sports,77.68,96
+47,Air Purifier,Home,469.36,42
+48,Bluetooth Speaker,Electronics,233.25,11
+49,Air Purifier,Home,461.08,62
+50,Summer Dress,Clothing,415.97,21
